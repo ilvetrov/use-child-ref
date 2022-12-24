@@ -1,6 +1,6 @@
 {
   "name": "use-child-ref",
-  "version": "1.0.1",
+  "version": "1.0.2-0",
   "description": "useChildRef is a React hook for getting or creating a child ref",
   "author": "ilvetrov",
   "license": "Apache-2.0",
