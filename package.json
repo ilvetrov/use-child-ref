@@ -8,12 +8,14 @@
     "type": "git",
     "url": "https://github.com/ilvetrov/use-child-ref.git"
   },
-  "type": "module",
   "main": "./dist/useChildRef.js",
-  "module": "./dist/useChildRef.js",
+  "module": "./dist/useChildRef.mjs",
   "typings": "./dist/useChildRef.d.ts",
   "exports": {
-    ".": "./dist/useChildRef.js",
+    ".": {
+      "import": "./dist/useChildRef.mjs",
+      "require": "./dist/useChildRef.js"
+    },
     "./package.json": "./package.json"
   },
   "engines": {
