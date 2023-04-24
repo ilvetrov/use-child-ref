@@ -1,3 +1,7 @@
+<p>
+  <img src="https://raw.githubusercontent.com/ilvetrov/use-child-ref/main/logo.svg" width="100" height="50" />
+</p>
+
 # useChildRef
 
 `useChildRef` is a React hook for getting or creating a child ref.
