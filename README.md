@@ -1,5 +1,5 @@
 <p>
-  <img src="https://raw.githubusercontent.com/ilvetrov/use-child-ref/main/logo.svg" width="100" height="50" />
+  <img src="https://raw.githubusercontent.com/ilvetrov/use-child-ref/main/logo.svg" width="150" height="75" />
 </p>
 
 # useChildRef
